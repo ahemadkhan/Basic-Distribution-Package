@@ -9,4 +9,4 @@ Add two distributions. this package is also able to plot the distribution using 
 pyplot library.
 
 ## Data: 
-The should be read from a .txt file. And each entry should be in different line.
+Data should be read from a .txt file. And each entry should be in different line.
